@@ -25,6 +25,7 @@ fields:
     required: true
 pages:
 - risk.md
+- marketing.md
 - vision.md
 - home.md
 - strategies.md
