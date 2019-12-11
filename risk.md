@@ -3,6 +3,9 @@ layout: page
 title: Risk
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 8
 published: false
 
 ---
