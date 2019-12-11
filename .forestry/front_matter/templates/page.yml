@@ -25,6 +25,7 @@ fields:
     required: true
 pages:
 - risk.md
+- git-hub.md
 - marketing.md
 - vision.md
 - finance.md
