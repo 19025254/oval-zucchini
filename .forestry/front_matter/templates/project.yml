@@ -32,6 +32,3 @@ fields:
   default: project
   config:
     required: true
-pages:
-- projects/project-6.md
-- projects/project-7.md
