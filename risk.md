@@ -6,7 +6,6 @@ img_path: ''
 menu:
   main:
     weight: 8
-published: false
 
 ---
 Well, my venture is Army force. The purpose of the Army force is providing security to nation from enemies and wining the all wars.
