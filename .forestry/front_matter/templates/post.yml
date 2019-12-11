@@ -37,7 +37,6 @@ fields:
   config:
     required: true
 pages:
-- _posts/2017-03-26-2017-03-26-interior-designer.md
 - _posts/2019-03-27-2019-03-27-why-fonts-matter.md
 - _posts/2016-08-22-2016-08-22-working-from-home.md
 - _posts/2018-01-09-2018-01-09-games.md
