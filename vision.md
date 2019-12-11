@@ -3,9 +3,6 @@ layout: page
 title: Vision
 subtitle: ''
 img_path: "/images/about.jpg"
-menu:
-  main:
-    weight: 4
 
 ---
 **“Purpose to grow regular Army by recruiting and reserving physical and mentally fit, personal courage, respectful and loyal soldiers who can fight and win properly on any future Nation's wars.”**

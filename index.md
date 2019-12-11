@@ -73,8 +73,5 @@ sections:
   component: contact_block.html
   subtitle: An optional subtitle of the section
 layout: home
-menu:
-  main:
-    weight: 1
 
 ---

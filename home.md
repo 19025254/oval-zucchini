@@ -5,7 +5,7 @@ subtitle: ''
 img_path: "/images/11.jpg"
 menu:
   main:
-    weight: 5
+    weight: 1
 
 ---
 Its target provides security to the nation from enemies and also helps the people. There are some key factors will provide to the soldiers: 
