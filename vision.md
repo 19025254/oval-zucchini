@@ -6,7 +6,6 @@ img_path: "/images/about.jpg"
 menu:
   main:
     weight: 5
-published: false
 
 ---
 **“Purpose to grow regular Army by recruiting and reserving physical and mentally fit, personal courage, respectful and loyal soldiers who can fight and win properly on any future Nation's wars.”**
