@@ -1,0 +1,9 @@
+---
+layout: page
+title: Finance
+subtitle: ''
+img_path: ''
+published: false
+
+---
+For this field, small amount of money have to need which can be afforded by anyone.
