@@ -3,6 +3,9 @@ layout: page
 title: Vision
 subtitle: ''
 img_path: "/images/about.jpg"
+menu:
+  main:
+    weight: 5
 published: false
 
 ---
